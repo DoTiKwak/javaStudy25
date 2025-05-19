@@ -8,3 +8,5 @@ JAVA는 17버젼을 설치함.
 Eclipse는 2022.3 버젼을 사용함
 
 교재는 자바 마스터 교재를 사용함.
+
+![슬라이드2](https://github.com/user-attachments/assets/ceaa1be4-103a-4313-b88c-30a4d524babe)
